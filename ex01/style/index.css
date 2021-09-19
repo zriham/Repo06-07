@@ -1,0 +1,36 @@
+header{
+    font-size: 12;
+    text-align: center;
+}
+caption{
+    font-size: 30px;
+   color: crimson;
+}
+
+.title1{
+color: cornflowerblue;
+
+}
+main{
+    margin: 50px;
+}
+
+img{
+
+width: 350px;
+padding-top: 30px;
+margin: 10px;
+
+}
+
+p{
+    font-size: 19px;
+    width: 310px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+
